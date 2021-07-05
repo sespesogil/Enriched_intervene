@@ -1,7 +1,8 @@
 # Enriched_intervene
 
 SLURM utility based in [intervene](https://github.com/asntech/intervene) with increased functionality: adding gene annotations and association across interesected regions.
-Requirements
+
+# Requirements
 
     R > 3.6
     bedtools
