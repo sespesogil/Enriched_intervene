@@ -15,4 +15,4 @@ First, indicate the path of your R and bedtools installation (or load correspond
 
 Then, place all bedfiles containing regions of interest in a folder and then simply run:
 
-```./Enriched_intervene.sh folder_path specie``` <br/>
+```./Enriched_intervene.sh folder_path species``` <br/>
